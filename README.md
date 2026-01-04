@@ -1,4 +1,4 @@
-## My 42 Türkiye Projects
+## 42 Türkiye Common-Core Projects
 
 <table>
   <tr>
