@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/emresmrlp/cpp">
+      <a href="https://github.com/emresmrlp/cpp_modules">
         <img src="https://github.com/user-attachments/assets/fcf9a016-18ed-499c-8f1a-11f23b1a8a7e" alt="cpp" width="100">
       </a>
     </td>
